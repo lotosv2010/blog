@@ -13,7 +13,7 @@ bgImage: '/bg.jpg'
 bgImageStyle: {
   height: '350px'
 }
-faceImage: '/head-github.png'
+faceImage: '/head.jpg'
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide

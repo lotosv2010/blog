@@ -38,7 +38,7 @@ module.exports = {
         text: 'Tag' // 默认 “标签”
       }
     },
-    logo: '/head-github.png',
+    logo: '/head.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -49,7 +49,7 @@ module.exports = {
     // 作者
     author: 'Robin',
     // 备案号
-    record: '沪 ICP 备 18036913 号',
+    record: '沪 ICP 备 xxxxxx 号',
     // 项目开始时间
     startYear: '2015',
     /**
