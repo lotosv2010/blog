@@ -14,7 +14,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果你想要部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:lotosv2010/lotosv2010.github.io.git master:gh-pages
+git push -f git@github.com:lotosv2010/lotosv2010.github.io.git master
 
 # 链接远程仓库
 git remote add origin https://github.com/lotosv2010/lotosv2010.github.io.git
