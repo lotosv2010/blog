@@ -13,6 +13,7 @@ cd blog/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
+# git rebase --continue
 
 # 如果你想要部署到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:lotosv2010/lotosv2010.github.io.git master
