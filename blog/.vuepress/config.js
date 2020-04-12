@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Robin Blog',
+  title: '码农沉思录',
   description: '代码千万行, 注释第一行, 编码不规范, 同事两行泪',
   // base: '/blog/',
   head: [
@@ -18,7 +18,6 @@ module.exports = {
   theme: 'reco',
   themeConfig: {
     type: 'blog',
-    huawei: false,
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       // 时间轴
@@ -47,6 +46,7 @@ module.exports = {
         text: 'Tag' // 默认 “标签”
       }
     },
+    authorAvatar: '/head.jpg',
     logo: '/head.jpg',
     // 搜索设置
     search: true,
@@ -58,9 +58,16 @@ module.exports = {
     // 作者
     author: 'Robin',
     // 备案号
-    record: '沪 ICP 备 xxxxxx 号',
+    // record: '沪 ICP 备 xxxxxx 号',
     // 项目开始时间
     startYear: '2015',
+    // 默认值是 true 。设置为 false 来禁用所有页面的 下一篇 链接
+    nextLinks: true,
+    // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
+    prevLinks: true,
+    // smoothScroll: true,
+    // 华为文案
+    huawei: false
     /**
      * 密钥 (if your blog is private)
      */
@@ -82,5 +89,7 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  // plugins: ['@vuepress/medium-zoom', 'flowchart']
+  plugins: [
+    'flowchart'
+  ]
 };
