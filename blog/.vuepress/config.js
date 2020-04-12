@@ -7,6 +7,14 @@ module.exports = {
     // 在移动端, 搜索框在获得焦点时会放大, 并且在失去焦点后可以左右滚动, 这可以通过设置元来优化
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
+  // locales: {
+  //   '/': {
+  //     lang: '简体中文'
+  //   },
+  //   '/en/': {
+  //     lang: 'English'
+  //   }
+  // },
   theme: 'reco',
   themeConfig: {
     type: 'blog',
@@ -16,13 +24,14 @@ module.exports = {
       // 时间轴
       { text: 'TimeLine', link: '/timeLine/', icon: 'reco-date' },
       {
-        text: 'Contact',
+        text: 'FriendLink',
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/lotosv2010/blog', icon: 'reco-github' },
+          { text: 'GitHub', link: 'https://github.com/lotosv2010/', icon: 'reco-github' },
           // { text: '简书', link: 'https://www.jianshu.com/u/cd674a19515e', icon: 'reco-jianshu' },
           // { text: 'CSDN', link: 'https://blog.csdn.net/recoluan', icon: 'reco-csdn' },
           { text: '博客圆', link: 'https://www.cnblogs.com/lotosv2010/', icon: 'reco-bokeyuan' },
+          { text: '语雀', link: 'https://www.yuque.com/lotosv2010', icon: 'reco-document' },
           // { text: 'WeChat', link: 'https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A', icon: 'reco-wechat' },
         ]
       }
