@@ -54,7 +54,7 @@ module.exports = {
     // 自动形成侧边导航
     sidebar: 'auto',
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    // lastUpdated: 'Last Updated',
     // 作者
     author: 'Robin',
     // 备案号
