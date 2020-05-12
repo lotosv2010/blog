@@ -127,13 +127,24 @@ D.替换掉该成员。
 ​	**题目：**
 
 ```html
-
+A project manager wants to ensure that the customer is kept current on a project's progress
+and performance. What should the project manager do?
+A. Create a communications management plan.
+B. Apply earned value management (EVM) methodology.
+C. Determine the percent complete.
+D. Conduct a cost-benefit analysis.
+项目经理希望确保客户能随时获取项目进度和绩效的最新信息。项目经理应该怎么做？
+A 创建沟通管理计划。
+B.应用挣值管理（EVM）方法论。
+C.确定已完成百分比。
+D.进行成本效益分析。
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：A
+解析：通过沟通管理计划，了解并明确客户需要的信息的内容，格式，接收频率等。
 ```
 
 
@@ -143,13 +154,26 @@ D.替换掉该成员。
 ​	**题目：**
 
 ```html
-
+Six team members are working on a project. Two team members work from remote location
+X;four team members and the project manager work at location Y.How many communication
+channels are there?
+A.8
+B.14
+C.15
+D.21
+54. 六名团队成员为一个项目工作。其中两名团队成员在远程位置X工作：四名团队成员和
+项目经理在位置Y工作。总共存在多少个沟通渠道？
+A.8
+B.14
+C.15
+D.21
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：D
+解析：N=2+4+1，N*（N-1）/2=7*6/2=21
 ```
 
 
