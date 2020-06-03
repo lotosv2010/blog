@@ -39,13 +39,27 @@ D.非正式书面
 ​	**题目：**
 
 ```html
-
+Early in a project's life cycle, a project manager plans to enhance the project's chance of
+success by building partnerships and coalitions with project stakeholders. What should the project manager do to achieve this?
+A. Create a stakeholders engagement assessments matrix to identify gaps between current and
+desired engagement levels.
+B. Map the interest levels of each stakeholder to the project's objectives.
+C. Document and clarify stakeholder roles by developing a responsible, accountable, consult,and
+inform (RACI) matrix
+D. Gather and analyze information on potential stakeholders to determine whose interests should
+be considered.
+在项目生命周期早期，项目经理打算通过与项目干系人建立合作伙伴关系和联合体，提高项目的成功概率。若要实现这一点，项目经理应该怎么做？
+A.创建项目干系人参与评估矩阵，识别当前参与程度与所需参与程度之间的差距。
+B.将每位项目干系人的利益层级与项目目标映射。
+C.通过制定一份执行、负责、咨询和知情（RACI）矩阵记录并澄清干系人的角色。
+D.收集并分析潜在干系人的相关信息，确定应考虑谁的利益。
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：D
+解析：A参考答案为13.2干系人参与计划，B为利益-目标方格（属于未知的映射Interest-objective，不属于PMBOK 13.1.2.4的三种干系人映射方格Power-interest，power-influence，impact-influence），C为RACI，D为13.1识别干系人的描述。题干提示为项目生命周期早期，首先做识别干系人。
 ```
 
 
