@@ -95,13 +95,23 @@ D.企业环境因素
 ​	**题目：**
 
 ```html
-
+You are developing strategies to effectively engage stakeholders throughout the project life cycle. What is process you are working on ?
+A. Plan Stakeholder Management
+B. Identify Stakeholders
+C. Manage Stakeholder Engagement
+D. Control Stakeholder Engagement
+你正在制定战略，以便在整个项目生命周期中有效地吸引相关方参与，请问这种工作属于如下哪个过程？ 
+A.规划相关方参与
+B.识别相关方
+C.管理相关方参与
+D.监督相关方参与
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：规划相关方参与是在整个项目生命周期中制定策略以有效地满足项目相关方的多样性信息需求。
 ```
 
 
