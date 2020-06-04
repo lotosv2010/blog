@@ -69,13 +69,23 @@ D.收集并分析潜在干系人的相关信息，确定应考虑谁的利益。
 ​	**题目：**
 
 ```html
-
+Jane has just started the Identify Stakeholders process for her project. She is currently looking for a template for the stakeholder register so that she doesn’t have to reinvent the wheel. Where can she find stakeholder register templates?
+A. Organizational process assets
+B. Project charter
+C. Project management plan
+D. Enterprise environmental factors
+Jane刚刚为她的项目启动了识别相关方的流程。她目前正在为相关方登记册寻找一个已有的模板，以便她不必重新指定识别相关方流程，请问她在哪里可以找到相关方登记册模板？
+A.组织过程资产
+B.项目章程
+C.项目管理计划
+D.企业环境因素
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：组织过程资产包括了相关方登记册模板。
 ```
 
 
