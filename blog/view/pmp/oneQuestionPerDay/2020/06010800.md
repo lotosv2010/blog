@@ -234,13 +234,24 @@ D.三点估算法
 ​	**题目：**
 
 ```html
-
+Prior to the construction of a bridge, a project manager invites technical experts, stakeholders and utilities companies to map possible events. What activity is the project manager performing?
+A. Brainstorming                        
+B. Variance analysis
+C. Qualitative analysis                 
+D. Managing communications
+在建造桥梁之前，项目经理邀请技术专家，干系人以及公共事业公司来确定可能发生的事件。项目经理执行哪项活动？
+A.头脑风暴                              
+B.偏差分析
+C.定性风险分析                          
+D.管理沟通
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：头脑风暴法是引导技术的一种，用来产生和收集对项目需求与产品需求的多种创意的技术。头脑风暴法本身不包含投票或排序，但常与包含该环节的其他群体创新技术一起使用。
+头脑风暴识别需求及风险，所以题干里的“可能发生的事件”都符合头脑风暴的应用范畴。
 ```
 
 
