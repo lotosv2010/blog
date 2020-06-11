@@ -149,13 +149,28 @@ C错。先进行分析和问题解决，再看是否需要更新项目进度计�
 ​	**题目：**
 
 ```html
-
+【2009期】2020.6.8每日一题：
+A company CEO informs the project manager that the customer complained about the denial of their request for an early product release. The customer is concerned that the product will now be unmarketable, and implied that they may not use this company for future projects. What should the project manager do?
+A. Immediately call the customer, explain why the request was denied, and agree on the early release.
+B. Provide all necessary information about the impact of the request and the reason for making that decision.
+C. Create a change request, update the project schedule, and inform the customer and project stakeholders.
+D. Make the suggested schedule change and notify the project stakeholders.
+一家公司的CEO通知项目经理，客户抱怨说他们的提前发布产品请求被拒绝了。客户担心产品现在将会滞销，并暗示在未来的项目中可能不会使用这家公司了。项目经理应该怎么做？
+A.立即联系客户，说明为什么拒绝请求，并同意提前发布。
+B.提供有关该请求影响的所有必要信息，以及做出该决定的理由。
+C.创建变更请求，更新项目进度计划并通知客户和项目干系人。
+D.更改建议的进度计划并通知项目干系人。
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：B
+解析：项目经理、CCB或指定的团队成员应该根据变更控制系统处理变更请求。某些特定的变更请求，在CCB批准之后，还可能需要得到客户或发起人的批准。项目经理应对确保每个变更请求都遵循变更管理计划。
+A错。“并同意提前发布”是错的
+B对。变更请求被批准或否决后，应该及时与有关的相关方进行沟通
+C错。题干里没有提出要创建变更请求。
+D错。直接更改建议的进度计划，是错误的做法。
 ```
 
 
