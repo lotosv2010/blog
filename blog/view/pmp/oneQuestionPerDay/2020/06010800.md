@@ -149,7 +149,6 @@ C错。先进行分析和问题解决，再看是否需要更新项目进度计�
 ​	**题目：**
 
 ```html
-【2009期】2020.6.8每日一题：
 A company CEO informs the project manager that the customer complained about the denial of their request for an early product release. The customer is concerned that the product will now be unmarketable, and implied that they may not use this company for future projects. What should the project manager do?
 A. Immediately call the customer, explain why the request was denied, and agree on the early release.
 B. Provide all necessary information about the impact of the request and the reason for making that decision.
@@ -180,13 +179,26 @@ D错。直接更改建议的进度计划，是错误的做法。
 ​	**题目：**
 
 ```html
-
+A team member in a matrix-based organization stops attending team meeting and fails to respond to status update requests from the project manager. What should the project manager do?
+A. Speak with the team member’s functional manage.
+B. Request the information from another team member.
+C. Request a new team member
+D. Continue to request a response from the team member.
+一个矩形阵组织中一名团队成员停止参加团体会议，并且不回应项目经理的状态更新请求。项目经理应该做什么？
+A.与该团队的职能经理谈话
+B.请求另名团队成员提供信息
+C.请求一名新团队成员
+D.继续请求该团队成员回应
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：团队成员停止参加团体会议，并且不回应项目经理的状态更新请求，当事人双方不能直接解决时需要将问题升级处理，与该团队的职能经理谈话是一种合适的选项。
+B错。每位项目成员担当自己既定的工作任务
+C错。先进行沟通分析，然后给出多种可能解决方案。请求一名新团队成员只是其一
+D错。题干暗示继续请求该团队成员回应是无效的
 ```
 
 
