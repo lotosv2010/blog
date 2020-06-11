@@ -208,13 +208,23 @@ D错。题干暗示继续请求该团队成员回应是无效的
 ​	**题目：**
 
 ```html
-
+To determine project costs, a project manager uses the actual cost (AC) from a past similar project. What estimating technique is the project manager using?
+A. Parametric
+B. Analogous
+C. Bottom-up
+D. Three-point
+为了完成项目成本，项目经理利用一个过往类似项目的实际成本（AC）。项目经理使用的是哪一种估算技术？
+A.参数估算
+B.类比估算
+C.自下而上估算
+D.三点估算法
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：B
+解析：成本类比估算是指以过去类似项目的参数值或规模指标为基础，来估算当前项目的同类参数或指标。在估算成本时，这项技术以过去类似项目的实际成本为依据，来估算当前项目的成本。这是一种粗略的估算方法，有时需要根据项目复杂性方面的已知差异进行调整
 ```
 
 
