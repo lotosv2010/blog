@@ -121,13 +121,25 @@ D.监督相关方参与
 ​	**题目：**
 
 ```html
-
+A project team encounters several anticipated risks that cause a schedule delay. What should the team do to minimize further delays from other anticipated risks?
+A. Performed risk reassessment and periodic audits.
+B. Conduct a variance and trend analysis
+C. Update the project schedule, and incorporate contingency time
+D. Update the risk breakdown structure (RBS)
+项目团队遇到导致进度延期的多个预期风险。团队应该怎么做来尽可能降低其他预期风险造成的进一步延期？
+A.执行风险再评估和定期审计
+B.执行偏差和趋势分析
+C.更新项目进度计划并包含应急时间
+D.更新风险分解结构（RBS）
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：在风险审查中，经常需要识别新风险，对现有风险进行再评估，以及删去已过时的风险。应该定期进行项目风险再评估。审计是检查并记录风险应对措施在处理已识别风险及其根源方面的有效性，以及风险管理过程的有效性。题干的关键词是“其他风险”，也暗示目前的问题是由于没有事先执行风险再评估和定期审计而造成的。
+B错。题干说“延期”，暗示已经执行了偏差分析
+C错。先进行分析和问题解决，再看是否需要更新项目进度计划
 ```
 
 
