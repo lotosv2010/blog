@@ -261,13 +261,27 @@ D.管理沟通
 ​	**题目：**
 
 ```HTML
+During a status meeting, the project manager realizes that the team members are not openly expressing ideas. What should the project manager do to resolve this?
+A. Escalate it to the project sponsor
+B. Conduct a team-building activity
+C. Enforce the communication management plan
+D. Ask the human resources department to replace the team
 
+在状态会议上，项目经理发现团队成员没有坦率地表达观点。若要解决这个问题，项目就可以该怎么做？
+A.将问题上报给项目发起人
+B.开展一次团队建设活动
+C.执行沟通管理计划
+D.让人力资源部门替换团队
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：B
+解析：题干“项目经理发现发现团队成员没有坦率地表达观点”，说明项目成员相互间的信任程度低，团队建设活动可以帮助提高团队的信任度和协作能力。
+A错。一般问题就去找发起人完全是错误的做法 
+C错。题干暗示这是信任合作问题，而不是信息沟通问题   
+D错。遇到问题先分析。另外人力资源部门也没有权力替换团队
 ```
 
 
