@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-cd /Users/robin/Downloads/01\ git/blog
+# cd /Users/robin/Downloads/01\ git/blog
 # 终止一个错误
 # set -e
 
